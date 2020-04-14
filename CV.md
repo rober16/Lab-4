@@ -2,7 +2,11 @@
 **Datos personales**
 
 * Nombre y Apellido: Roberto Gomez
+<<<<<<< HEAD
 * Direccion: 7422  Terrace
+=======
+* Direccion: 742  Terrace
+>>>>>>> clon
 * Nro cel: 0303456
 * email: rgm123@gmail.com
 * *Universidad Blas Pascal*
